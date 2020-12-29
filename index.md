@@ -15,9 +15,6 @@ Par la suite, j'ai utilisé **Visual Studio Code** et **Sublime Text 3** afin de
 
 Voici les améliorations/modifications que j'ai apporté au site original :
 
-```markdown
-Améliorations apportés :
-
 > 1.0.0: Modification de la base du texte:
 
 - Changement du texte entier du site et suppression de lignes inutiles :
@@ -27,14 +24,3 @@ Améliorations apportés :
 > 1.0.1: Ajout de la page 404:
 
 [Voir la page 404](https://purpleyann.github.io/My-Website-Project/404)
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
