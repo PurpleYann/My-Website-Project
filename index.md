@@ -24,11 +24,9 @@ Améliorations apportés :
 1. Changement de presque tout le texte Anglais en Français.
 2. Modification de la mise en page afin d'ajouter un style unique.
 
-> 1.0.1: Ajout d'images:
+> 1.0.1: Ajout de la page 404:
 
-- Ajout d'images:
-1. Au début de la page.
-2. A la fin de la page.
+[Voir la page 404](https://purpleyann.github.io/My-Website-Project/404)
 
 - Bulleted
 - List
